@@ -25,8 +25,8 @@ swift
 🚀 Getting Started
 1. Clone the Repo
 bash
-git clone https://github.com/your-username/three-cube-animation.git
-cd three-cube-animation
+git clone https://github.com/Sheersh01/Img_Circle3D.git
+cd Img_Circle3D
 2. Install Dependencies
 bash
 npm install
